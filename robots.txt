@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amratef70.github.io/amr__atef/sitemap.xml
